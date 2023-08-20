@@ -1,3 +1,5 @@
+# Análise Exploratória de Dados: Preço dos Combustíveis Comercializados no Brasil 
+
 Este notebook consiste na análise exploratória de dados (EDA) referente ao dataset "Gas Prices in Brazil", extraído do Kaggle. O dataset abrange o período de 2004 até 2021 e tem como base os dados dos relatórios divulgados pela Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP).
 
 Traremos os seguintes insights através dos dados:
