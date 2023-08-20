@@ -20,4 +20,4 @@ Observações importantes: Até 30 de outubro de 2004, todos os preços médios 
 
 fonte: https://www.kaggle.com/datasets/matheusfreitag/gas-prices-in-brazil
 
-[Acesso ao Projeto](EDA_Projeto_Gas.ipynb.ipynb) 
+[Acesso ao Projeto](EDA_Projeto_Gas.ipynb) 
